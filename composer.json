@@ -1,5 +1,5 @@
 {
-  "name": "rdok/elasticemail-php",
+  "name": "figtreehouse/elasticemail-php",
   "description": "Integration to the Elastic Email API http://api.elasticemail.com/public/help",
   "license": "MIT",
   "authors": [
